@@ -2,7 +2,7 @@
 <specification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ballotUrl="http://hl7.org/fhir/us/pq-cmc-fda/2025Jan" ciUrl="https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda" defaultVersion="2.0.0" defaultWorkgroup="brr" gitUrl="https://github.com/HL7/FHIR-us-pq-cmc" url="http://hl7.org/fhir/us/pq-cmc-fda">
 <version code="current" url="https://build.fhir.org/ig/HL7/FHIR-us-pq-cmc-fda"/>
 <version code="2.0.0" url="http://hl7.org/fhir/us/pq-cmc-fda/STU2"/>
-<version code="2.0.0-ballot" url="http://hl7.org/fhir/us/pq-cmc-fda/2025Jan"/>
+<version code="2.0.0-ballot" deprecated="true"url="http://hl7.org/fhir/us/pq-cmc-fda/2025Jan"/>
 <version code="1.0.0" url="http://hl7.org/fhir/us/pq-cmc-fda/STU1"/>
 <version code="1.0.0-ballot" deprecated="true" url="http://hl7.org/fhir/us/pq-cmc-fda/2024May"/>
 <artifactPageExtension value="-definitions"/>
@@ -126,7 +126,7 @@
 <artifact deprecated="true" id="StructureDefinition/mfg-test-site-organization" key="StructureDefinition-mfg-test-site-organization" name="Manufacturing and/or Test Site Organization"/>
 <artifact id="ValueSet/pqcmc-non-percentage-units" key="ValueSet-pqcmc-non-percentage-units" name="Non-Percentage Units"/>
 <artifact deprecated="true" id="StructureDefinition/optional-denominator" key="StructureDefinition-optional-denominator" name="Optional Denominator"/>
-<artifact id="ValueSet/pqcmc-org-identifier-type-terminology" key="ValueSet-pqcmc-org-identifier-type-terminology" name="Organization-Site Identifier Terminology"/>
+<artifact deprecated="true" id="ValueSet/pqcmc-org-identifier-type-terminology" key="ValueSet-pqcmc-org-identifier-type-terminology" name="Organization-Site Identifier Terminology"/>
 <artifact id="StructureDefinition/pq-overage-extension" key="StructureDefinition-pq-overage-extension" name="Overage Extension"/>
 <artifact id="CodeSystem/cmc-hierarchy-supplement" key="CodeSystem-cmc-hierarchy-supplement" name="PQ-CMC-FDA NCIt Hierarchy Supplement"/>
 <artifact deprecated="true" id="CodeSystem/temporary" key="CodeSystem-cmc-ncit-dummy" name="PQ-CMC-FDA Temporary Codes"/>
