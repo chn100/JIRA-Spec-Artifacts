@@ -4,7 +4,7 @@
 <version code="2.0.0" url="http://hl7.org/fhir/us/pq-cmc-fda/STU2"/>
 <version code="2.0.0-ballot" url="http://hl7.org/fhir/us/pq-cmc-fda/2025Jan"/>
 <version code="1.0.0" url="http://hl7.org/fhir/us/pq-cmc-fda/STU1"/>
-<version code="1.0.0-ballot" deprecated="true" url="http://hl7.org/fhir/us/pq-cmc-fda/2024May"/>
+<version code="1.0.0-ballot" deprecated="true" url="hl7.org/fhir/us/pq-cmc-fda/2024May"/>
 <artifactPageExtension value="-definitions"/>
 <artifactPageExtension value="-examples"/>
 <artifactPageExtension value="-mappings"/>
